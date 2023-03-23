@@ -12,7 +12,6 @@ ms.custom: internal-contributor-guide
 ---
 # Add unicode emoji icons to Learn content
 
-[!INCLUDE [in-review](../includes/in-review.md)]
 
 This article explains how to add emojis to Learn content.
 
@@ -54,4 +53,3 @@ The following emojis have been tested and confirmed to render correctly with Lea
 
 ## Additional resources
 
-- [Shared Image Gallery](https://review.learn.microsoft.com/content-production-service/internal/image-gallery?branch=main)
