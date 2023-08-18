@@ -44,7 +44,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/azure/industry/training-services/microsoft-community-training/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "uhfHeaderId": "Azure",
+      "feedback_system": "Standard"
     },
     "fileMetadata": {},
     "template": [],
