@@ -30,7 +30,7 @@ The Community Training portal provides role-based permission levels. The table b
 
 ## Steps to create a Learning Path
 
-1. Log on to the Community Training portal and [**view as andministrator**](../../../get-started/step-by-step-configuration-guide.md#step-2--switch-to-administrator-view-of-the-portal).
+1. Log on to the Community Training portal and [**view as administrator**](../../../get-started/step-by-step-configuration-guide.md#step-2--switch-to-administrator-view-of-the-portal).
 
 1. Select the **Content** menu on the left bar and click on the  **Learning Path** tab
 
